@@ -1,17 +1,14 @@
 # Olá, sou o Nathan! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor em processo de aprendizado, focado em tecnologias como:
+Bem-vindo ao meu perfil do GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no **terceiro semestre**. Além disso, sou um desenvolvedor em processo de aprendizado, focado em tecnologias como:
 
-- **HTML, CSS e JavaScript**
-- **React**
-- **Java**
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) **CSS**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **Java**
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) **Spring Boot**
 
-Tenho trabalhado em projetos como jogos e landing pages, e estou sempre buscando melhorar minhas habilidades e explorar novas tecnologias.
-
-## Projetos Destacados
-
-- **Jogo da Velha (React)**: Um jogo simples implementado com React.
-- **Landing Page - Casas Bahia**: Um exemplo de landing page responsiva.
+Estou sempre buscando melhorar minhas habilidades e explorar novas tecnologias.
 
 ## Estatísticas GitHub
 
@@ -19,5 +16,5 @@ Tenho trabalhado em projetos como jogos e landing pages, e estou sempre buscando
 
 ## Conecte-se Comigo
 
-- [LinkedIn](https://www.linkedin.com/in/nathan-slv017)
-- [Portfólio](link-do-seu-portfolio)
+- [LinkedIn](https://www.linkedin.com/in/nathan-da-silva-programming/)
+
