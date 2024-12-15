@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, sou o Nathan! 👋
 
-<!--
-**nathan-slv017/Nathan-slv017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor em processo de aprendizado, focado em tecnologias como:
 
-Here are some ideas to get you started:
+- **HTML, CSS e JavaScript**
+- **React**
+- **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho trabalhado em projetos como jogos e landing pages, e estou sempre buscando melhorar minhas habilidades e explorar novas tecnologias.
+
+## Projetos Destacados
+
+- **Jogo da Velha (React)**: Um jogo simples implementado com React.
+- **Landing Page - Casas Bahia**: Um exemplo de landing page responsiva.
+
+## Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathan-slv017&show_icons=true&theme=radical)
+
+## Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/nathan-slv017)
+- [Portfólio](link-do-seu-portfolio)
